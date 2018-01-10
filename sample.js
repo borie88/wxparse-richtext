@@ -1,5 +1,5 @@
 // page.js
-const Html = require('../../../utils/html.js');
+const Html = require('/parse-rich/html.js');
 
 Page({
 	data: {
